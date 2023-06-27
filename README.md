@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rodrigez000
-- 👀 I’m interested in ... online publishing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... online publishing
+- 👀 I’m interested in ... web3 online publishing
+- 🌱 I’m currently learning SvelteKit
 - 📫 How to reach me ... @rodrigez000
 
 <!---
