@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigez000
-- 👀 I’m interested in ... web3 online publishing
-- 🌱 I’m currently learning SvelteKit
+- 👀 Front-end web and web3
+- 🌱 Currently learning SvelteKit
 - 📫 How to reach me ... @rodrigez000
 
 <!---
